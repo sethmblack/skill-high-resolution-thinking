@@ -3,8 +3,8 @@ name: high-resolution-thinking
 description: Design dense, layered information displays that respect the viewer's intelligence and visual processing capacity. Based on Edward Tufte's belief that "there is no such thing as information overload...
 license: MIT
 metadata:
+  version: 1.0.4161
   author: sethmblack
-  version: 1.0.4160
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - high-resolution-thinking
